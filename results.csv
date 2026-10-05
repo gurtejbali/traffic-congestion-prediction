@@ -1,0 +1,5 @@
+Model,Accuracy (%),Macro F1
+Persistence baseline (same level as previous hour),80.4,0.802
+Logistic Regression,90.0,0.9
+Random Forest,94.5,0.945
+Gradient Boosting,94.7,0.946
